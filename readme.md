@@ -13,7 +13,7 @@ __Need Librarys:__
   
 __Features:__  
   
-1- Has multi language support. (Now only Turkish and English support) 
+1- Has multi language support. (It now supports Turkish, English, Indonesian and German languages!) 
   
 2- Has multi type option  
   
