@@ -22,8 +22,8 @@ class Trade extends Command implements PluginIdentifiableCommand
      */
     public function __construct()
     {
-        parent::__construct("trade", "Takas komutu", "/trade <player>", ["takas"]);
-        $this->plugin = Main::getInstance();
+		$this->plugin = Main::getInstance();
+		parent::__construct($this->plugin->translateText("command"), $this->plugin->translateText("command.description"), $this->plugin->translateText("command.usage"));
     }
 
     /**
