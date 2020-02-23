@@ -60,7 +60,7 @@ class Main extends PluginBase
 		}else{
 			$this->baseLang = new BaseLang($lang, $baseFolder . "/lang/");
 		}
-		$this->getServer()->getCommandMap()->register("trade",new Trade());
+		$this->getServer()->getCommandMap()->register("tradegui",new Trade());
 	}
 
 	/**
