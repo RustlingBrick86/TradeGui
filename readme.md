@@ -1,3 +1,5 @@
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FFurkanGM%2FTradeGui)
+
 ![screenshot](https://i.resimyukle.xyz/yHHe3P.png)
 
 # TradeGui
